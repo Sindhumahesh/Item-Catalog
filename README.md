@@ -52,7 +52,7 @@ What can an authorized user do?
             - An authorized user can add,delete and edit menu item and as shown in the provided link.
             https://cloud.githubusercontent.com/assets/11263235/8070075/62e7c108-0ec4-11e5-888c-081d19369367.png
             
-            - An authorized person who created a particular  restaurant can only edit and delete the restaurant.
+            - An authorized person who created a particular restaurant only have the permissions to edit and delete the restaurant.
             
             - Restaurant creator name and image can been seen in the project.
             
