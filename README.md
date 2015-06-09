@@ -47,6 +47,7 @@ How to connect with google?:
             - click on download json to download the json file.call it client_secrets.json and store in project.
             
             - In login.html give the client id to data-clientid = "your client id".
+            ![snip20150609_3](https://cloud.githubusercontent.com/assets/11263235/8068595/7320300a-0eba-11e5-9111-958a3ce874bd.png)
             
 How to configure your vagrant environment:
 
