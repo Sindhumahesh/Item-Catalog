@@ -47,7 +47,8 @@ How to connect with google?:
             
             - In login.html give the client id to data-clientid = "your client id".
             
-            - An authorized user can add,delete and edit menu item as shown in the provided link.https://cloud.githubusercontent.com/assets/11263235/8070075/62e7c108-0ec4-11e5-888c-081d19369367.png
+            - An authorized user can add,delete and edit menu item as shown in the provided link.
+            https://cloud.githubusercontent.com/assets/11263235/8070075/62e7c108-0ec4-11e5-888c-081d19369367.png
             
 How to configure your vagrant environment:
 
