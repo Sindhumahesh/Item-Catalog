@@ -15,7 +15,10 @@ Description:
            
            - A viewer can just only see the restaurants and thier menu items but an authorized person can add,edit or delete restaurants and menu items.
            
+           - A restaurant creator name and image are displayed in the header section as shown below.
            
+![Alt text](https://cloud.githubusercontent.com/assets/11263235/8070075/62e7c108-0ec4-11e5-888c-081d19369367.png)
+
 Installations :
 
             - Vagrant and VirtualBox.
