@@ -49,7 +49,8 @@ How to connect with google?:
             - In login.html give the client id to data-clientid = "your client id".
             
             
-            when a user logins with gmail: https://cloud.githubusercontent.com/assets/11263235/8068595/7320300a-0eba-11e5-9111-958a3ce874bd.png
+            when a user logins with gmail: 
+            https://cloud.githubusercontent.com/assets/11263235/8068595/7320300a-0eba-11e5-9111-958a3ce874bd.png
             
 How to configure your vagrant environment:
 
