@@ -47,6 +47,12 @@ How to connect with google?:
             
             - In login.html give the client id to data-clientid = "your client id".
             
+            
+When an authorized user logged-in:
+
+           - When an authorized user gets logged-in the user can add a new restaurant as shown in the image
+           https://cloud.githubusercontent.com/assets/11263235/8068595/7320300a-0eba-11e5-9111-958a3ce874bd.png.
+            
 How to configure your vagrant environment:
 
            - vagrant init hashicorp/precise32.
