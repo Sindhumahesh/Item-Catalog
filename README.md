@@ -83,7 +83,7 @@ API:
 
           - /restaurant/<int:restaurant_id>/menu/JSON : Provides all restaurant menu items for a given restaurant_id.
           
-          - /restaurant/JSON : Provides all restaurants
+          - /restaurant/JSON : Provides all restaurants.
           
           - /restaurant/<int:restaurant_id>/menu/<int:menu_id>/JSON : Provides  Restaurant menu item for a given restaurant_id and menu_id.
           
