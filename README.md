@@ -78,3 +78,11 @@ How to run the project in terminal(for mac)? :
             
             - In your browser visit http://localhost:5005 to view the restaurant menu app.
 
+API'S:
+          - /restaurant/<int:restaurant_id>/menu/JSON : Provides all restaurant menu items for a given restaurant_id.
+          
+          - /restaurant/JSON : Provides all restaurants
+          
+          - /restaurant/<int:restaurant_id>/menu/<int:menu_id>/JSON : Provides  Restaurant menu item for a given restaurant_id and menu_id.
+          
+          
