@@ -47,6 +47,8 @@ How to connect with google?:
             
             - In login.html give the client id to data-clientid = "your client id".
             
+            - An authorized user can add,delete and edit menu item as shown in the provided link.(https://cloud.githubusercontent.com/assets/11263235/8070075/62e7c108-0ec4-11e5-888c-081d19369367.png)
+            
 How to configure your vagrant environment:
 
            - vagrant init hashicorp/precise32.
@@ -56,6 +58,14 @@ How to configure your vagrant environment:
             - use sudo apt-get install python-pip to install pip.
             
             - use sudo apt-get install Flask to install Flask.
+            
+JSON API:
+
+          - /restaurant/<int:restaurant_id>/menu/JSON : Provides all restaurant menu items for a given restaurant_id.
+          
+          - /restaurant/JSON : Provides all restaurants.
+          
+          - /restaurant/<int:restaurant_id>/menu/<int:menu_id>/JSON : Provides  Restaurant menu item for a given restaurant_id and menu_id.
             
 How to run the project in terminal(for mac)? :
 
@@ -76,14 +86,3 @@ How to run the project in terminal(for mac)? :
             - Type python project.py to run the Flask web server.
             
             - In your browser visit http://localhost:5005 to view the restaurant menu app.
-
-JSON API:
-
-
-          - /restaurant/<int:restaurant_id>/menu/JSON : Provides all restaurant menu items for a given restaurant_id.
-          
-          - /restaurant/JSON : Provides all restaurants.
-          
-          - /restaurant/<int:restaurant_id>/menu/<int:menu_id>/JSON : Provides  Restaurant menu item for a given restaurant_id and menu_id.
-          
-          
