@@ -1,7 +1,6 @@
 # Item-Catalog
 Udacity Project3
 
-https://cloud.githubusercontent.com/assets/11263235/8068595/7320300a-0eba-11e5-9111-958a3ce874bd.png
 Description:
 
            - This project provides a list of restaurants and their menus.
