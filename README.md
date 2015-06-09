@@ -56,9 +56,6 @@ What can an authorized user do?
             
             - Restaurant creator name and image can been seen in the project.
             
-            - https://cloud.githubusercontent.com/assets/11263235/8070075/62e7c108-0ec4-11e5-888c-081d19369367.png
-            
-            
 How to configure your vagrant environment:
 
            - vagrant init hashicorp/precise32.
