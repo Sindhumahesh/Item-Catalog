@@ -13,11 +13,15 @@ Description:
            
            - A local permission system is also added to the project for protecting users by not getting thier data modifying thier data by other users.
            
-           - A viewer can just only see the restaurants and thier menu items but an authorized person can add,edit or delete restaurants and menu items.
+           - A viewer can just only see the restaurants and thier menu items but an authorized person can add,edit or delete restaurants and menu items as shown in the image.
            
            - A restaurant creator name and image are displayed in the header section as shown below.
            
+Authorized User:
 ![Alt text](https://cloud.githubusercontent.com/assets/11263235/8070075/62e7c108-0ec4-11e5-888c-081d19369367.png)
+
+Viewer:
+![Alt text](https://cloud.githubusercontent.com/assets/11263235/8071271/fab7563e-0ecd-11e5-82c9-aa5d6a4100b2.png)
 
 Installations :
 
